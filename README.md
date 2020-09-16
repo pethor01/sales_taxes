@@ -1,6 +1,7 @@
 Sales Taxes Ruby
 
 To generate the outputs
+
     for input one
     rspec spec/generate_receipts/generate_input_one.spec.rb
         
