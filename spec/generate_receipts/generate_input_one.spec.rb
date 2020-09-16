@@ -1,5 +1,4 @@
 require "./app/generate_receipt"
-require "./app/input_data/input_data"
 require './app/models/receipt'
 require './app/format/number_precision'
 require "./lib/tax_rate"

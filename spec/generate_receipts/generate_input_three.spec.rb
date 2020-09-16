@@ -1,5 +1,4 @@
 require './app/generate_receipt'
-require './app/input_data/input_data'
 require './app/models/receipt'
 require './app/format/number_precision'
 require './lib/tax_rate'
@@ -7,7 +6,7 @@ require './app/models/item'
 
 
 describe GenerateReceipt do
-	context "get input_data for input_2" do
+	context "get input_data for input three" do
 
 		let(:receipt) { Receipt.new }
 		let(:input_1) { Item.new(1, "imported bottle of perfume", 27.99) }
