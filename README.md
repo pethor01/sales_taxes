@@ -3,10 +3,10 @@ Sales Taxes Ruby
 To generate the outputs
 
     for input one
-    rspec spec/generate_receipts/generate_input_one.spec.rb
+    <h5>rspec spec/generate_receipts/generate_input_one.spec.rb</h5>
         
     for input two
-    rspec spec/generate_receipts/generate_input_two.spec.rb
+    <h5>rspec spec/generate_receipts/generate_input_two.spec.rb</h5>
         
-    for input one
-    rspec spec/generate_receipts/generate_input_three.spec.rb
+    for input three
+    <h5>rspec spec/generate_receipts/generate_input_three.spec.rb</h5>
