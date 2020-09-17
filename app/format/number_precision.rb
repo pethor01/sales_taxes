@@ -7,7 +7,7 @@ class NumberPrecision
 
 	#return rounded number to the nearest 0.05
 	def rounded_number
-		(number * 20).ceil / 20.0
+		(number * 20).ceil / 20.to_f
 	end
 	
 	#return number to string with 2 two decimal
